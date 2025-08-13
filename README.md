@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luismiespisan, i'm a IT student.
 - 👀 I’m interested in ... learn about IT
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ... nothing for now.
 - 📫 How to reach me ...
 
